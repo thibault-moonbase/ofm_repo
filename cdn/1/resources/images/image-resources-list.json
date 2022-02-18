@@ -1,0 +1,58 @@
+{
+  "1644223092741": {
+    "originalName": "2022-02-07 16_37_40-OFM_RUSSIA_NOV_30.pdf and 2 more pages - Work - Microsoft​ Edge.png",
+    "fileName": "1644223092741.png",
+    "size": 1323433,
+    "url": "${appResourceUrl}/images/background_setting/1644223092741.png",
+    "created": 1644223092741,
+    "resourcesPrefix": "images/background_setting",
+    "referedIds": [],
+    "originId": "1644223092741",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 939,
+    "originalHeight": 722
+  },
+  "1644223888247": {
+    "originalName": "57304728_303.jpg",
+    "fileName": "1644223888247.jpg",
+    "size": 57492,
+    "url": "${appResourceUrl}/images/widget_271/1644223888247.jpg",
+    "created": 1644223888247,
+    "resourcesPrefix": "images/widget_271",
+    "referedIds": [],
+    "originId": "1644223888247",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 700,
+    "originalHeight": 394
+  },
+  "1644223970525": {
+    "originalName": "3500.jpg",
+    "fileName": "1644223970525.jpg",
+    "size": 29553,
+    "url": "${appResourceUrl}/images/widget_278/1644223970525.jpg",
+    "created": 1644223970525,
+    "resourcesPrefix": "images/widget_278",
+    "referedIds": [],
+    "originId": "1644223970525",
+    "fileFormat": "image/jpeg",
+    "isUseCompress": false,
+    "originalWidth": 930,
+    "originalHeight": 558
+  },
+  "1644227698638": {
+    "originalName": "Intara Logo - WHT - notagx2.png",
+    "fileName": "1644227698638.png",
+    "size": 52282,
+    "url": "${appResourceUrl}/images/widget_296/1644227698638.png",
+    "created": 1644227698638,
+    "resourcesPrefix": "images/widget_296",
+    "referedIds": [],
+    "originId": "1644227698638",
+    "fileFormat": "image/png",
+    "isUseCompress": false,
+    "originalWidth": 3460,
+    "originalHeight": 1300
+  }
+}
